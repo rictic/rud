@@ -1,0 +1,5 @@
+[package]
+
+name = "rud"
+version = "0.0.1"
+authors = ["Peter Burns <rictic@google.com>"]
