@@ -18,6 +18,7 @@ struct PlayerHandle {
 
 #[deriving(Clone, Send)]
 struct GameWorld;
+mod worlddefs;
 
 
 enum Command {
